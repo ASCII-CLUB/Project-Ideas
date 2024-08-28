@@ -8,7 +8,6 @@ Welcome to the Project Ideas Repository! Choose your favorite programming langua
 </head>
 <body>
 
-<h1># Project Ideas Repository</h1>
 
 
 <h2>Table of Contents</h2>
