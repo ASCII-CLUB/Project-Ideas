@@ -10,7 +10,7 @@ Welcome to the Project Ideas Repository! Choose your favorite programming langua
 <body>
 
 <h1># Project Ideas Repository</h1>
-<p>Welcome to the Project Ideas Repository! Choose your favorite programming language and start working on exciting projects. Each section contains a list of project ideas for that language.</p>
+
 
 <h2>Table of Contents</h2>
 <ul>
